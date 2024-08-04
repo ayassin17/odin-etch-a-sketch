@@ -3,6 +3,7 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    
 }
 .header {
     display: flex;
@@ -26,3 +27,4 @@ body {
     display: grid;
     border: 1px solid black;
 }
+
